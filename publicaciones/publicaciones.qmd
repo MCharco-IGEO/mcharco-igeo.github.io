@@ -1,0 +1,17 @@
+---
+title: "Publicaciones"
+image: "20230512_María.jpg"
+about: 
+  template: jolla
+
+---
+
+
+## Publicaciones destacadas
+**Charco, M.**, González, P. J., Pallero, J. L. G., García-Cañada, L., del Fresno, C., & Rodríguez-Ortega, A. (2024). The 2021 La Palma (Canary Islands) eruption ending forecast through magma pressure drop. Geophysical Research Letters, 51, e2023GL106885, doi: [10.1029/2023GL06885](https://doi.org/10.1029/2023GL106885){target="_blank"}.
+
+Rodríguez-Molina, S., González, P.J., **Charco, M.**, Negredo, A.M. and Schmidt, D.A. (2021). Time-Scales of Inter-Eruptive Volcano Uplift Signals: Three Sisters Volcanic Center, Oregon (United States). Front. Earth Sci. 8:577588, doi: [10.3389/feart.2020.577588](https://www.frontiersin.org/journals/earth-science/articles/10.3389/feart.2020.577588/full){target="_blank"}.
+
+Benito-Saz, M.A., Sigmundsson, F., **Charco, M.**, Hooper, A. Parks, M., 2019, Magma flow rates and temporal evolution of the 2012-2014 post-eruptive intrusions at El Hierro, Canary Islands, J. Geophys. Res., 124(12), 12576-12592, doi: [10.1029/2019JB018219](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019JB018219){target="_blank"}.
+
+**Charco, M.** and Galán del Sastre, P. (2014) Efficient inversion of three-dimensional finite element models of volcano deformation, Geophysical Journal International, Volume 196, Issue 3, 1441–1454, doi: [10.1093/gji/ggt490](https://doi.org/10.1093/gji/ggt490){target="_blank"}.

@@ -1,0 +1,220 @@
+---
+title: "Publicaciones"
+---
+
+Resumen de mis contribuciones científicas. Para un listado completo consulta mi perfil en [Google Scholar](https://scholar.google.com), [ORCID](https://orcid.org/0000-0002-2791-9522) o [Scopus](https://www.scopus.com/authid/detail.uri?authorId=6506675185).
+
+---
+
+## Artículos en revistas con revisión por pares
+
+### Artículos enviados
+
+González, P.J., Boulesteix, T., Webb, A., Walter, T. and **Charco, M.**
+Recurrent unrest reveals a transcrustal magma storage system beneath Teide volcano.
+*Earth and Planetary Science Letters* (enviado).
+
+### 2024
+
+**Charco, M.**, González, P. J., Pallero, J. L. G., García-Cañada, L., del Fresno, C., & Rodríguez-Ortega, A. (2024).
+The 2021 La Palma (Canary Islands) eruption ending forecast through magma pressure drop.
+*Geophysical Research Letters*, 51, e2023GL106885.
+[DOI](https://doi.org/10.1029/2023GL106885){.btn .btn-outline-primary .btn-sm target="_blank"}
+
+::: {style="margin-left: 2em; color: #888; font-size: 0.9em;"}
+Este artículo es el resultado del asesoramiento científico sobre la subsidencia del terreno registrada mediante la red GNSS permanente del IGN durante la erupción de Tajogaite (La Palma, 19/09/2021–13/12/2021), en el marco del Plan Especial de Protección Civil y Atención de Emergencias por Riesgo Volcánico de Canarias (PEVOLCA).
+:::
+
+### 2021
+
+Fullea, J., Negredo, A.M., **Charco, M.**, Palomeras, I., Villaseñor, A. and Afonso, J. (2021).
+The topography of the Iberian Peninsula from integrated geophysical-petrological multi-data inversion.
+*Physics of the Earth and Planetary Interiors*, 314, 106691.
+[DOI](https://doi.org/10.1016/j.pepi.2021.106691){.btn .btn-outline-primary .btn-sm target="_blank"}
+
+Rodríguez-Molina, S., González, P.J., **Charco, M.**, Negredo, A.M. and Schmidt, D.A. (2021).
+Time-scales of Intereruptive Volcano Uplift Signals: Three Sisters Volcanic center, Oregon (USA).
+*Frontiers in Earth Science*, 8, 645:1-30.
+[DOI](https://doi.org/10.3389/feart.2020.577588){.btn .btn-outline-primary .btn-sm target="_blank"}
+
+### 2019
+
+Benito-Saz, M.A., Sigmundsson, F., **Charco, M.**, Hooper, A., Parks, M. (2019).
+Magma flow rates and temporal evolution of the 2012-2014 post-eruptive intrusions at El Hierro, Canary Islands.
+*Journal of Geophysical Research*, 124(12), 12576-12592.
+[DOI](https://doi.org/10.1029/2019JB018219){.btn .btn-outline-primary .btn-sm target="_blank"}
+
+### 2016
+
+**Charco, M.**, Orive, R., Díaz, J.I., Osete, M.L., Fernández, J. (2016).
+Introduction to Mathematics and Geosciences: Global and Local Perspectives, Volume II.
+*Pure and Applied Geophysics*, 173, 731-737.
+[DOI](https://doi.org/10.1007/s00024-016-1255-6){.btn .btn-outline-primary .btn-sm target="_blank"}
+
+### 2015
+
+Fullea, J., Rodríguez-González, J., **Charco, M.**, Martinec, Z., Negredo, A.M. and Villaseñor, A. (2015).
+Perturbing effects of sub-lithospheric mass anomalies in GOCE gravity gradient and other potential field data modelling: application to the Atlantic-Mediterranean transition zone.
+*International Journal of Applied Earth Observation and Geoinformation*, 35(A), 54-69.
+[DOI](https://doi.org/10.1016/j.jag.2014.02.003){.btn .btn-outline-primary .btn-sm target="_blank"}
+
+### 2014
+
+**Charco, M.** and Galán del Sastre, P. (2014).
+Efficient inversion of 3D Finite Element models of volcano deformation.
+*Geophysical Journal International*, 196(3), 1441-1454.
+[DOI](https://doi.org/10.1093/gji/ggt490){.btn .btn-outline-primary .btn-sm target="_blank"}
+
+### 2011
+
+Brimich, L., **Charco, M.**, Kohút, I. and Fernández, J. (2011).
+3D analytical and numerical modelling of the regional topography influence on the surface deformation due to underground heat source.
+*Contributions to Geophysics and Geodesy*, 41(3), 251-265. [DOI](http://dx.doi.org/10.2478/v10126-011-0010-3){.btn .btn-outline-primary .btn-sm target="_blank"}
+
+**Charco, M.** and Galán del Sastre, P. (2011).
+Deformaciones en áreas volcánicas: una aproximación numérica para su predicción en el volcán Teide (Tenerife, Islas Canarias).
+*Física de la Tierra*, 23, 83-92.
+
+### 2009
+
+**Charco, M.**, Camacho, A.G., Fernández, J. and Tiampo, K.F. (2009).
+Spatiotemporal gravity changes: assessing the importance of Topography.
+*Geophysical Research Letters*, 36, L08306.
+[DOI](https://doi.org/10.1029/2009GL037160){.btn .btn-outline-primary .btn-sm target="_blank"}
+
+### 2007
+
+**Charco, M.**, Luzón, F., Fernández, J., Tiampo, K.F. and Sánchez-Sesma, F.J. (2007).
+3D Indirect Boundary Element Method for deformation and gravity changes in volcanic areas. Application to Teide (Tenerife, Canary Islands).
+*Journal of Geophysical Research*, 112, B08409.
+[DOI](https://doi.org/10.1029/2006JB004740){.btn .btn-outline-primary .btn-sm target="_blank"}
+
+**Charco, M.**, Luzón, F., Fernández, J. and Tiampo, K.F. (2007).
+Topography and self-gravitation interaction in elastic-gravitational modeling.
+*Geochemistry, Geophysics and Geosystems*, 8, Q01001.
+[DOI](https://doi.org/10.1029/2006GC001412){.btn .btn-outline-primary .btn-sm target="_blank"}
+
+Camacho, A.G., Fernández, J., **Charco, M.**, Tiampo, K.F. and Jentzsch, G. (2007).
+Interpretation of 1992-1994 gravity changes in Mayon volcano, Philippines, using point sources.
+*Pure and Applied Geophysics*, 164(4), 733-749. [DOI](https://link.springer.com/article/10.1007/s00024-007-0185-8){.btn .btn-outline-primary .btn-sm target="_blank"}
+
+**Charco, M.**, Fernández, J., Luzón, F., Tiampo, K.F. and Rundle, J.B. (2007).
+Some insights about topographic, elastic and self-gravitation interaction in modelling ground deformation and gravity changes in active volcanic areas.
+*Pure and Applied Geophysics*, 164(4), 865-878. [DOI](https://link.springer.com/chapter/10.1007/978-3-7643-8417-3_14){.btn .btn-outline-primary .btn-sm target="_blank"}
+
+### 2006
+
+**Charco, M.**, Fernández, J., Luzón, F. and Rundle, J.B. (2006).
+On the relative importance of self-gravitation and elasticity in modeling volcanic ground deformation and gravity changes.
+*Journal of Geophysical Research*, 111, B03404.
+[DOI](https://doi.org/10.1029/2005JB003754){.btn .btn-outline-primary .btn-sm target="_blank"}
+
+Fernández, J., **Charco, M.**, Rundle, J.B., Tiampo, K.F. (2006).
+A revision of the FORTRAN codes GRAVW to compute deformation produced by a point magma intrusion in elastic-gravitational layered Earth models.
+*Computers & Geosciences*, 32(2), 275-281.
+[DOI](https://doi.org/10.1016/j.cageo.2005.06.015){.btn .btn-outline-primary .btn-sm target="_blank"}
+
+### 2005
+
+**Charco, M.**, Tiampo, K.F., Luzón, F. and Fernández, J. (2005).
+Modelling gravity changes and crustal deformation in active volcanic areas.
+*Física de la Tierra*, 17, 129-146.
+
+### 2004
+
+Tiampo, K.F., Fernández, J., Jentzsch, G., **Charco, M.**, and Rundle, J.B. (2004).
+Volcanic source inversion using a genetic algorithm and model for magmatic intrusion in elastic-gravitational layered Earth models.
+*Computers & Geosciences*, 30(9-10), 985-1001. [DOI](https://www.sciencedirect.com/science/article/pii/S0098300404001347){.btn .btn-outline-primary .btn-sm target="_blank"}
+
+Fernández, J., González-Matesanz, F.J., Prieto, J.F., Staller, A., Rodríguez-Velasco, G., Alonso-Medina, A. and **Charco, M.** (2004).
+GPS Monitoring in the N-W part of the Volcanic Island of Tenerife, Canaries, Spain. Strategy and results.
+*Pure and Applied Geophysics*, 161(7), 1359-1377. [DOI](https://link.springer.com/article/10.1007/s00024-004-2509-2){.btn .btn-outline-primary .btn-sm target="_blank"}
+
+**Charco, M.**, Fernández, J., Tiampo, K.F., Battaglia, M., Kellogg, L., McClain, J., and Rundle, J.B. (2004).
+Study of volcanic sources at Long Valley Caldera, California, using gravity data and a genetic algorithm inversion technique.
+*Pure and Applied Geophysics*, 161(7), 1399-1413.[DOI](https://link.springer.com/chapter/10.1007/978-3-0348-7897-5_7){.btn .btn-outline-primary .btn-sm target="_blank"}
+
+Tiampo, K.F., Fernández, J., Jentzsch, G., **Charco, M.**, and Rundle, J.B. (2004).
+New results at Mayon, Philippines, from a joint inversion of gravity and deformation measurements.
+*Pure and Applied Geophysics*, 161(7), 1433-1452.[DOI](https://link.springer.com/article/10.1007/s00024-004-2513-6){.btn .btn-outline-primary .btn-sm target="_blank"}
+
+### 2003
+
+**Charco, M.**, Fernández, J., Sevilla, M.J., and Rundle, J.B. (2003).
+Modeling Magmatic Intrusion's effects on the geoid and vertical deflection. Application to Lanzarote, Canary Islands, and Long Valley Caldera, California.
+*Física de la Tierra*, 14, 11-31.
+
+### 2002
+
+**Charco, M.**, Brimich, L., Fernández, J. (2002).
+Topography effects on displacements and gravity changes due to magmatic intrusions.
+*Geologica Carpathica*, 53(4), 215-221.
+
+### 2001
+
+Fernández, J., Tiampo, K.F., Jentzsch, G., **Charco, M.**, Rundle, J.B. (2001).
+Inflation or deflation? New results for Mayon volcano applying elastic-gravitational modeling.
+*Geophysical Research Letters*, 28(12), 2349-2352. [DOI](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2000GL012656){.btn .btn-outline-primary .btn-sm target="_blank"}
+
+Fernández, J., **Charco, M.**, Tiampo, K.F., Jentzsch, G. (2001).
+Joint interpretation of displacements and gravity data in volcanic areas. A test example: Long Valley Caldera, California.
+*Geophysical Research Letters*, 28(6), 1063-1066. [DOI](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2000GL012393){.btn .btn-outline-primary .btn-sm target="_blank"}
+
+---
+
+## Capítulos de libros y monografías
+
+Babault, J., Van Den Driessche J. and **Charco, M.** (2022).
+Plateau uplift, regional warping and subsidence.
+In: Shroder, J. (Ed. in Chief), Owen L. (Ed.), *Treatise on Geomorphology*, 2nd ed., 223-269.
+[DOI](https://doi.org/10.1016/B978-0-12-818234-5.00119-X){.btn .btn-outline-primary .btn-sm target="_blank"}
+
+Domínguez Cerdeña I., **Charco M.**, González-Alonso E., del Fresno C., Benito-Saz M.A. and García-Cañada, L. (2023).
+Magma storage and migration in El Hierro during the period 2011-2014.
+In: González P.J. (Ed.) *El Hierro*. Series: Active Volcanoes in the World. Springer, pp. 91-110.
+[DOI](https://doi.org/10.1007/978-3-031-35135-8_5){.btn .btn-outline-primary .btn-sm target="_blank"}
+
+**Charco, M.**, Díaz, J.I., Fernández, J., Orive, R. and Osete, M.L. (Eds.) (2016).
+*Mathematics and Geosciences: Global and Local Perspectives, Vol. II*, 341 pp. Springer-Verlag.
+ISBN: 978-3-319-32704-4.
+[Springer](https://www.springer.com/us/book/9783319327044){.btn .btn-outline-primary .btn-sm target="_blank"}
+
+**Charco, M.** and Galán del Sastre, P. (2014).
+Some Insights About Volcano Deformation Interpretation.
+In: Pardo-Iguzquiza et al. (Eds.), *Mathematics of Planet Earth*. Lecture Notes in Earth System Sciences. Springer, pp. 403-406.
+[DOI](https://doi.org/10.1007/978-3-642-32408-6_89){.btn .btn-outline-primary .btn-sm target="_blank"}
+
+**Charco, M.** and Galán del Sastre, P. (2011).
+Finite Element numerical solution for modelling ground deformation in volcanic areas.
+In: Pardo, L., Balakrishan, N., Gil, M.A. (Eds.), *Modern mathematical tools and techniques in capturing complexity*. Springer, pp. 223-237.
+[DOI](https://doi.org/10.1007/978-3-642-20853-9_16){.btn .btn-outline-primary .btn-sm target="_blank"}
+
+**Charco, M.** (2004).
+*Modelización de la deformación y variaciones de gravedad causadas por actividad volcánica*. Tesis Doctoral, 183 pp. Universidad Complutense de Madrid. ISBN: 84-669-2590-2.
+[UCM](https://docta.ucm.es/entities/publication/1a4a7b7a-7383-4702-9255-85fe7c5567f9){.btn .btn-outline-primary .btn-sm target="_blank"}
+
+Tiampo, K.F., Fernández, J., Jentzsch, G., **Charco, M.**, Tiede, C., Gerstenecker, C., Camacho, A., and Rundle, J.B. (2004).
+Elastic-gravitational modeling of geodetic data in active volcanic areas.
+*Recent Research Development in Geophysics*. Research Signpost, 6, 37-58.
+
+---
+
+## Informes científicos
+
+**Charco, M.** & Martí, J. (Topic Coordinators) (2021).
+White Paper 14: "Dynamic Earth: Probing the Past, Assessing the Present, Preparing for the Future".
+*CSIC Scientific Challenges: Towards 2030*, 14.[https://digital.csic.es/handle/10261/221205]{.btn .btn-outline-primary .btn-sm target="_blank"}
+
+---
+
+## Prototipos de software
+
+Pallero, J. L. G., & **Charco, M.** (2023).
+*End-eruption-1.0* [Software]. Zenodo.
+Software en Matlab para el análisis e interpretación de series temporales GNSS con decaimiento exponencial.
+[DOI](https://doi.org/10.5281/zenodo.8416802){.btn .btn-outline-primary .btn-sm target="_blank"}
+
+**Charco, M.**, Pallero, J.L.G. & Galán del Sastre, P. (2026).
+*VolDFEM-1.0* [Software]. Zenodo.
+Software en C para la aproximación numérica mediante el Método de Elementos Finitos de deformaciones volcánicas, incluyendo resolución del problema inverso mediante optimización local y algoritmo genético.
+[DOI](https://doi.org/10.5281/zenodo.18505359){.btn .btn-outline-primary .btn-sm target="_blank"}

@@ -1,0 +1,12 @@
+---
+title: "VolcaMotion"
+description: Mega-deslizamientos en flancos de islas oceánicas
+image: "MCIN_AEI_FEDER_2.jpg"
+categories: 
+  - Activos
+---
+**Titulo:** Estudio de los mecanismos que controlan el desencadenamiento, aceleración y parada de
+mega-deslizamientos en flancos de islas oceánicas (PID2022-139159NB-I00). **Organismo
+financiador:** Ministerio de Ciencia en Innovación. **Duración:** 4 años. 31/07/2023-31/07/2027 (Proyectos de I+D+I
+Generación de Conocimiento y Retos Investigación-Convocatoria 2022). **IP:** P. J. González,
+**Co-IP:** M. Charco. **Cuantía de la subvención:** 151.000,00 €.
