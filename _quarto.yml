@@ -1,0 +1,27 @@
+project:
+  type: website
+output-dir: _site
+resources:
+        - proyectos/
+
+website:
+  title: "María Charco"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Inicio
+      - href: Bio/Bio.qmd
+        text: CV
+      - href: Equipo/06_Equipo.qmd
+        text: Equipo Investigador
+      - href: proyectos/pagina-proyectos.qmd
+        text: Proyectos
+      - href: publicaciones/03_Publicaciones.qmd
+        text: Publicaciones
+      - href: NewsAndMedia/05_NewsAndMedia.qmd
+        text: Noticias
+       
+
+format:
+  html:
+    theme: cosmo
