@@ -1,7 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://MCharco-IGEO.github.io/mcharco-igeo.github.io/Equipo/06_Equipo.html</loc>
+    <lastmod>2026-10-28T18:21:47.923Z</lastmod>
+  </url>
+  <url>
+    <loc>https://MCharco-IGEO.github.io/mcharco-igeo.github.io/Bio/Bio.html</loc>
+    <lastmod>2026-10-28T18:21:47.916Z</lastmod>
+  </url>
+  <url>
+    <loc>https://MCharco-IGEO.github.io/mcharco-igeo.github.io/publicaciones/03_Publicaciones.html</loc>
+    <lastmod>2026-10-28T18:21:47.939Z</lastmod>
+  </url>
+  <url>
     <loc>https://MCharco-IGEO.github.io/mcharco-igeo.github.io/index.html</loc>
-    <lastmod>2026-10-28T18:08:37.891Z</lastmod>
+    <lastmod>2026-10-28T18:21:47.937Z</lastmod>
+  </url>
+  <url>
+    <loc>https://MCharco-IGEO.github.io/mcharco-igeo.github.io/proyectos/proyecto1/proyecto1.html</loc>
+    <lastmod>2026-10-28T18:21:47.938Z</lastmod>
+  </url>
+  <url>
+    <loc>https://MCharco-IGEO.github.io/mcharco-igeo.github.io/proyectos/pagina-proyectos.html</loc>
+    <lastmod>2026-10-28T18:21:47.937Z</lastmod>
+  </url>
+  <url>
+    <loc>https://MCharco-IGEO.github.io/mcharco-igeo.github.io/proyectos/proyecto2/proyecto2.html</loc>
+    <lastmod>2026-10-28T18:21:47.939Z</lastmod>
+  </url>
+  <url>
+    <loc>https://MCharco-IGEO.github.io/mcharco-igeo.github.io/publicaciones/index.html</loc>
+    <lastmod>2026-10-28T18:21:47.940Z</lastmod>
+  </url>
+  <url>
+    <loc>https://MCharco-IGEO.github.io/mcharco-igeo.github.io/publicaciones/publicaciones.html</loc>
+    <lastmod>2026-10-28T18:21:47.940Z</lastmod>
+  </url>
+  <url>
+    <loc>https://MCharco-IGEO.github.io/mcharco-igeo.github.io/NewsAndMedia/05_NewsAndMedia.html</loc>
+    <lastmod>2026-10-28T18:21:47.927Z</lastmod>
   </url>
 </urlset>

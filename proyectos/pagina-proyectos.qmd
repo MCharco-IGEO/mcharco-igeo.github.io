@@ -1,0 +1,9 @@
+---
+title: "Mis Proyectos"
+listing:
+    contents: .
+    type: grid
+    categories: true
+---
+
+
